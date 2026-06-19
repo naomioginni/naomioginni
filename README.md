@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Naomi Oginni! 👋
 
-<!--
-**naomioginni/naomioginni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+I'm a passionate Web Developer specializing in building 
+beautiful and functional websites for businesses.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
+- WordPress & Elementor
+- HTML & CSS
+- Systeme.io
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 My Projects
+| Project | Description | Live Site |
+|---------|-------------|-----------|
+| [Vantage Website](https://github.com/naomioginni/vantagewebsite) | WordPress business website | [View Live](https://vantagepalm.ng/) |
+| [UTradingAiBot](https://github.com/naomioginni/utradingaibot) | AI trading bot platform website | [View Live](https://utradingaibot.com/) |
+| [Alpha Bookkeeping](https://github.com/naomioginni/alphabookkeeping) | Bookkeeping & consultancy website | [View Live](https://www.alphabookkeeping.nl/) |
+
+## 📊 GitHub Stats
+![Naomi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naomioginni&show_icons=true&theme=radical)
+
+## 🌍 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/naomi-c-oginni-603430134/)
+- 📧 [Email](mailto:naomioginni26@gmail.com)
+
+## 💬 Fun Fact
+I love turning ideas into beautiful websites! 🚀
