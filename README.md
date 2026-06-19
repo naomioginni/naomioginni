@@ -3,14 +3,23 @@
 ## 👩‍💻 About Me
 I'm a passionate Web Developer specializing in building 
 beautiful and functional websites for businesses.
+Currently studying Full Stack Development at BYU Pathway Worldwide.
 
 ## 🛠️ Skills & Tools
-- WordPress & Elementor
+- JavaScript & Python
 - HTML & CSS
+- WordPress & Elementor
 - Systeme.io
 - Git & GitHub
 
-## 🌐 My Projects
+## 💻 Coded Projects
+| Project | Description | Live Site |
+|---------|-------------|-----------|
+| [Filtered Temple Album](https://github.com/naomioginni/wdd131) | JavaScript filterable photo gallery | [View Live](https://naomioginni.github.io/wdd131/filtered-temples.html) |
+| [Explore Lagos](https://github.com/naomioginni/wdd131) | Multi-page travel guide website for Lagos Nigeria | [View Live](https://naomioginni.github.io/wdd131/project.html) |
+| [Product Review Form](https://github.com/naomioginni/wdd131) | Interactive product review form with star ratings | [View Live](https://naomioginni.github.io/wdd131/form.html) |
+
+## 🌐 Web Design Projects
 | Project | Description | Live Site |
 |---------|-------------|-----------|
 | [Vantage Website](https://github.com/naomioginni/vantagewebsite) | WordPress business website | [View Live](https://vantagepalm.ng/) |
